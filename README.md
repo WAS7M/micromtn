@@ -3,7 +3,7 @@ Logr - An Amazing Project.
  - - -
 
 I never understood why blogging platforms had to be so complex. In my opinion,
-the perfect blog software would adhere to a few important principals:
+the perfect blog software would adhere to a few important principles:
 
 1. Bells and whistles are a waste of time. They never get used.
 2. Less is better. You shouldn't have to waste time configuring.
